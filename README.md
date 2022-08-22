@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srin20
+- 👋 Hi, I’m Soham Rana alias @srin20
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Machine learning and Deep learning
 - 💞️ I’m looking to collaborate on ...
