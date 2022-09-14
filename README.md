@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Soham Rana alias @srin20
 - 👀 I’m interested in Data Science and Machine learning
+- 🌱 I’m currently persuing M.Tech in Agricultural Systems and Management under IIT KGP
 - 🌱 I’m currently learning Machine learning and Deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me do mail ranasoham08@gmail.com
